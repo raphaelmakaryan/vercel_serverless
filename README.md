@@ -40,3 +40,6 @@ pnpm dev
 ```
 
 Deploy it to the cloud with [Vercel](https://vercel.com/templates) ([Documentation](https://nextjs.org/docs/app/building-your-application/deploying)).
+
+### Contexte
+Ce repo a été créé par Vercel sur leur site, dans le contexte du cours d'Architecture Logiciel dans l'utilisation d'un projet serverless
